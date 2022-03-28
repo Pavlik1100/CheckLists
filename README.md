@@ -6,7 +6,7 @@
 [bugs ToDoList](https://docs.google.com/spreadsheets/d/1TpCWlc1_cRv5yoQqAMOLrnQXTr7iShKxP-c-Xx4J3oo/edit#gid=1526219484) 
 # Web form testing
 [Requirements](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=0)  
-[Check list](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=2136510876)  
+[Check list](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=1933621294)  
 [Bug reports](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=1057905453)
 ## 🚏 Navigate:
 [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
