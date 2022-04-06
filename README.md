@@ -6,7 +6,7 @@
 [bugs ToDoList](https://docs.google.com/spreadsheets/d/1TpCWlc1_cRv5yoQqAMOLrnQXTr7iShKxP-c-Xx4J3oo/edit#gid=1526219484) 
 # Web form testing
 [Requirements](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=0)  
-[Check list](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=1933621294)  
+[Checklist Equivalence partitioning](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=1933621294)  
 [Improvements](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=891511942)  
 [Bug reports](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=1057905453)
 ## 🚏 Navigate:
