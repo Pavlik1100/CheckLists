@@ -7,6 +7,7 @@
 # Web form testing
 [Requirements](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=0)  
 [Checklist Equivalence partitioning](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=1933621294)  
+[Checklist Boundary values](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=2110356306)  
 [Improvements](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=891511942)  
 [Bug reports](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=1057905453)
 ## 🚏 Navigate:
