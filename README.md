@@ -11,7 +11,7 @@
 [Desicion Table](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=737647254)  
 [Checklist UI](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=879419773)   
 [Improvements](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=891511942)  
-[Bug reports](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=1057905453)
+[Bug reports](https://docs.google.com/spreadsheets/d/1AdXHi9Pqr-ydRFgm3gkaLFNF4Oudzl4cmN_DWhimG2Y/edit#gid=1057905453)  
 ## 🚏 Navigate:
 [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
 ## 📫 How to reach me:  
